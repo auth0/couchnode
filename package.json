@@ -22,7 +22,7 @@
   "dependencies": {
     "bindings": "~1.0.0",
     "nan": "~0.8.0",
-    "request": "~2.30.0"
+    "request": "~2.41.0"
   },
   "devDependencies": {
     "async": "0.2.9",
